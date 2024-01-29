@@ -1,0 +1,121 @@
+.header-img, main, footer{
+    margin-left: 10%; 
+    margin-bottom: 0%;
+    margin-right: 10%;
+}
+
+ul{
+    padding: 0;
+    margin-left: 1%;
+}
+
+header{
+    background-color: rgb(53, 8, 19);
+    background-image: url(../img/pattern.png);
+ 
+}
+
+.header-img {
+    width: 30%;
+    margin-top: 10%; 
+
+}
+
+#main-title{
+    font-size: 300%;
+    margin-bottom: 0;
+
+}
+
+.main-subtitle-p1, .main-subtitle-p2{
+    font-size: 200%;
+}
+
+.main-subtitle-p1, .main-date{
+    color: rgb(99, 99, 99);
+}
+
+.main-subtitle-p2{
+    color: rgb(0, 140, 255);
+}
+
+.main-date{
+    font-size: 150%;
+}
+
+.photo-description{
+    font-size: 70%;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.list, .main-text, .images-main, table{
+    margin-top: 2%;
+}
+
+.main-text{
+    font-size: 100%;
+}
+
+.main-text-focus{
+    background-color: rgb(49, 0, 0);
+    color: white;
+}
+
+table{
+    padding: 0;
+    border-collapse: collapse;
+}
+
+.table-head{
+    background-color: rgb(2, 49, 4);
+    text-align: left;
+    color: white;
+}
+
+.row-odd{
+    background-color: rgb(178, 245, 198);
+}
+
+.row-even{
+    background-color: rgb(219, 255, 218);
+}
+
+.row-odd, .row-even{
+    height: 10px;
+}
+
+td{
+    width: 30%;
+}
+
+footer{
+    margin-top: 5%;
+}
+
+.footer-img-1{
+    background-image: url(../img/monitor.jpg);
+}
+
+.footer-img-2{
+    background-image: url(../img/graph.jpg);
+}
+
+.footer-img-1, .footer-img-2{
+    width: 500px;
+    height: 200px;
+    color: white;
+    background-repeat: no-repeat;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+.footer-text{
+    padding-left: 5%;
+    padding-top: 2%;
+}
+
+h2{
+    padding: 0;
+    margin-bottom: 0%;
+}
